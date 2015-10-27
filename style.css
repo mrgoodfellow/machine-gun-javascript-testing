@@ -1,0 +1,22 @@
+object {
+    border:1px solid black;
+    background: green;
+    padding: 20px;
+    position: relative;
+    margin-left:-20px;
+}
+.red {
+    background: red;
+}
+.object1 {
+    bottom: 0;
+    left:0;
+}
+body {
+        -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
